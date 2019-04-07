@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Map GeoFence</string>
+
+    <string name="load_data">Go</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="accuracy">Accuracy</string>
+</resources>

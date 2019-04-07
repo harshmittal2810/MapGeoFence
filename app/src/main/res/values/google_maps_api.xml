@@ -1,0 +1,11 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=3C:40:C9:74:F2:C9:5E:64:08:92:94:BE:69:0E:E7:65:FE:D0:8B:EC%3Bcom.harsh.mapgeofence
+
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyC7I7Hzpxeiar_lBREnBIN_akdSV70jIZ8-VNAhrUyiWpuOpthlAJwd9A</string>
+</resources>
